@@ -7,5 +7,6 @@ const reverse = (coll) => {
     coll[i] = coll[mirrorIndex];
     coll[mirrorIndex] = temp;
   }
+
   return coll;
 };
