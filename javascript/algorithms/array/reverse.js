@@ -1,5 +1,4 @@
-const reverse = (array) => {
-  const coll = array;
+const reverse = (coll) => {
   const lastIndex = coll.length - 1;
   const middleIndex = lastIndex / 2;
   for (let i = 0; i < middleIndex; i += 1) {
@@ -8,4 +7,5 @@ const reverse = (array) => {
     coll[i] = coll[mirrorIndex];
     coll[mirrorIndex] = temp;
   }
+  return coll;
 };
