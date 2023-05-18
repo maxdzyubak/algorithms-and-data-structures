@@ -1,7 +1,7 @@
-## My Algorithms Solutions on JavaScript
-### Sort
-- [bubbleSort](https://github.com/maxdzyubak/algorithms-and-data-structures/blob/main/javascript/algorithms/sort/bubbleSort.js)
-### Array
-- [reverse](https://github.com/maxdzyubak/algorithms-and-data-structures/blob/main/javascript/algorithms/array/reverse.js)
+## My algorithms solutions
+| Level | Name | Type | Language | Solution |
+| --- | --- | --- | --- | --- |
+| **Easy** | bubbleSort | Sort | JavaScript |[solution](https://github.com/maxdzyubak/algorithms-and-data-structures/blob/main/javascript/algorithms/sort/bubbleSort.js) |
+| **Easy** | reverse | Array | JavaScript | [solution](https://github.com/maxdzyubak/algorithms-and-data-structures/blob/main/javascript/algorithms/array/reverse.js) |
 
-## My Data Structures Solutions on JavaScript
+## My data structures solutions
